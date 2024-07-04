@@ -2,8 +2,8 @@
 C++ implementation of merge-insertion sort(Ford-Johnson algorithm)  
 
 # Reference
-L. Ford, S. Johnson, A tournament problem, American Mathematical Monthly 66 (1959) 387–389 [<https://doi.org/10.2307/2308750>]  
-Knuth, Donald E. The Art of Computer Programming: Volume 3: Sorting and Searching. Addison-Wesley Professional; 2 edition (May 4, 1998).  
+- L. Ford, S. Johnson, A tournament problem, American Mathematical Monthly 66 (1959) 387–389 [<https://doi.org/10.2307/2308750>]  
+- Knuth, Donald E. The Art of Computer Programming: Volume 3: Sorting and Searching. Addison-Wesley Professional; 2 edition (May 4, 1998).  
 
 ## Blog  
 **Jacobsthal sequence의 closed form 유도**  
