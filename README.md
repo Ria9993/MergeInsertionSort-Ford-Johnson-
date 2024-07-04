@@ -6,8 +6,8 @@ C++ implementation of merge-insertion sort(Ford-Johnson algorithm)
 - Knuth, Donald E. The Art of Computer Programming: Volume 3: Sorting and Searching. Addison-Wesley Professional; 2 edition (May 4, 1998).  
 
 ## Blog  
-**Jacobsthal sequence의 closed form 유도**  
-<https://ria9993.github.io/math/2024/03/05/Jacobsthal-sequence.html>  
+- Jacobsthal sequence의 closed form 유도 [<https://ria9993.github.io/math/2024/03/05/Jacobsthal-sequence.html>]
+- 올바른 퍼포먼스 테스트를 위한 캐시 플러쉬 [<https://80000coding.oopy.io/0fb3911b-d066-455e-9a65-d61b7b6671c4>]  
 
 ## Note
 ```
